@@ -17,3 +17,5 @@ A function called resetTable() clears the body of the table, populates the dropd
 values from the dataset and displays all data to the table as a starting point.
 
 
+
+
