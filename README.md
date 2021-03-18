@@ -15,3 +15,6 @@ the date/time column to find rows that match user input and displays these to th
 
 A function called resetTable() clears the body of the table, populates the dropdown menu with unique date 
 values from the dataset and displays all data to the table as a starting point.
+
+
+
